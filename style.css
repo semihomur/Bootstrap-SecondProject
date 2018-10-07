@@ -1,0 +1,91 @@
+body
+{
+    margin-top: 105px;
+}
+.navbar
+{
+    opacity: 0.9;
+    box-shadow: 2px 2px 5px #3292a6;
+    background: #fff;
+}
+.logobrand 
+{
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+nav
+{
+    background-color: #fff;
+}
+.nav-item a
+{
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: rgba(0,0,0,0.5);
+}
+.navbar
+{
+    opacity: 0.9;
+}
+#home
+{   
+    background-image: url(img/mountains.jpg);
+    min-height: 600px;
+    background-size: cover;
+    position: relative;
+    
+}
+.ic
+{
+    background:rgba(50,146,166,0.8);
+    position: absolute;
+     top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+
+}
+.baslik
+{
+    font-size: 1.5rem;
+    
+}
+.baslik2
+{
+    font-size:5.5rem;
+}
+.card
+{
+    border:1px solid #3292A6;
+}
+#why
+{
+    background-color: #F8F9FA;    
+}
+.mavi
+{    font-size: 2.5rem;
+    color: #3292A6;
+}
+.informations
+{
+    width: 50%;
+    margin: auto;
+    border-bottom: 1px solid #ddd;
+}
+
+.posab
+{
+    margin-top: -50px;
+}
+.card:hover
+{
+    background-color: #3292A6;
+}
+.copyright
+{
+    background-color: #3292A6;
+}
+.copyright p
+{
+    font-size: 1.3rem;
+}
